@@ -26,6 +26,11 @@ body {
 
 .header h2{
     font-size:30px;
+    background-color: red;
+}
+
+.header h2 {
+    font-size: 30px;
 }
 
 .hero {
